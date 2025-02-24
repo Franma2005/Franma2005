@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Francisco Manuel de Céspedes Díaz</h1>
-<h3 align="center">Desarrollador de Software Full-Stack | Especialista en Tecnologías Web y Móviles 🚀</h3>
-👨‍💻 Sobre mí
+<h1 align="center">¡Hola! Soy Francisco Manuel de Céspedes Díaz</h1>
+<h3 align="center">Software Developer Jr. | Growing in multiple technologies 🚀</h3>
+👨‍💻 Sobre mí:
 
 🌱 Desarrollador apasionado por crear soluciones innovadoras
 💡 Especializado en desarrollo web y aplicaciones móviles
