@@ -1,11 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Francisco Manuel de Céspedes Díaz</h1>
 <h3 align="center">Desarrollador de Software Full-Stack | Especialista en Tecnologías Web y Móviles 🚀</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-</p>
 👨‍💻 Sobre mí
 
 🌱 Desarrollador apasionado por crear soluciones innovadoras
@@ -13,26 +7,77 @@
 📚 Comprometido con el aprendizaje continuo y las mejores prácticas
 🤝 Abierto a colaboraciones y proyectos interesantes
 
+interesantes
+
 🛠️ Stack Tecnológico
-Frontend Development
-
-React.js | Angular | Flutter | HTML5 | CSS3
-JavaScript | TypeScript | Dart
-
-Mobile Development
-
-React Native | Flutter | Android (Kotlin/Java)
-
-Backend & Databases
-
-Node.js | Java
-MySQL | MariaDB | Firebase
-
-Herramientas & Otros
-
-Git | Linux
-Firebase | Postman
-Control de versiones y metodologías ágiles
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="65" height="65" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 📫 Conecta conmigo
 
