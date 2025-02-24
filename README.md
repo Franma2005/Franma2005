@@ -7,10 +7,8 @@
     📚 Comprometido con el aprendizaje continuo y las mejores prácticas
     🤝 Abierto a colaboraciones y proyectos interesantes
 
-interesantes
-
 🛠️ Stack Tecnológico
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
