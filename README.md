@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer Jr. | Growing in multiple technologies 🚀</h3>
 👨‍💻 Sobre mí:
 
-🌱 Desarrollador apasionado por crear soluciones innovadoras
-💡 Especializado en desarrollo web y aplicaciones móviles
-📚 Comprometido con el aprendizaje continuo y las mejores prácticas
+🌱 Desarrollador apasionado por crear soluciones innovadoras  
+💡 Especializado en desarrollo web y aplicaciones móviles  
+📚 Comprometido con el aprendizaje continuo y las mejores prácticas  
 🤝 Abierto a colaboraciones y proyectos interesantes
 
 interesantes
